@@ -75,12 +75,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/SoulCave
-Content/Environment_Set
-Content/StarterContent
+Content/KusogeContest2019/OutResources
 Content/Textures
+Content/StarterContent
+Content/SoulCave
 Content/Props
-Content/Materials
 Content/Particles
-Content/FreeFurniturePack
 Content/Blueprints
+Content/Materials
+Content/Environment_Set
+Content/FreeFurniturePack
+Content/KusogeContest2019/OutSource
